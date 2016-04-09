@@ -7,7 +7,7 @@ The two important files are:
 1. VMC_hydrogen  
    Contains the code which we used to calculate energies of the    
    hydrogen molecule with the Variantional Monte Carlo Method  
-2. DMC_hydrogen 
+2. DMC_hydrogen   
    contains the code which we used to calculate energies of the  
    hydrogen molecule with the Diffusion Monte Carlo Method 
 
