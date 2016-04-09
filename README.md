@@ -4,10 +4,10 @@ Code and report of Monte Carlo simulations on Hydrogen molecule
 The repository contains four files
 
 The two important files are:  
-1. Variatonal_Monte_Carlo  
+1. VMC_hydrogen  
    Contains the code which we used to calculate energies of the    
    hydrogen molecule with the Variantional Monte Carlo Method  
-2. Diffusion_monte_carlo  
+2. DMC_hydrogen 
    contains the code which we used to calculate energies of the  
    hydrogen molecule with the Diffusion Monte Carlo Method 
 
