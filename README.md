@@ -1,7 +1,7 @@
 # Compu-Hydrogen
 Code and report of Monte Carlo simulations on Hydrogen molecule
 
-The repository contains four files
+The repository contains four files with code
 
 The two important files are:  
 1. VMC_hydrogen  
