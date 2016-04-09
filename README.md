@@ -17,5 +17,5 @@ Two less important files:
    1D Harmonic Oscillator and the Helium atom.  
 4. DMC_HO  
    We used this code to practice the DMC method on the simple  
-   1D Harmonic oscillator.  
+   3D Harmonic oscillator.  
    
